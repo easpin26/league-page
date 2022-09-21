@@ -15,9 +15,9 @@ export const homepageText = `
   <p>5. No One</p>
   <p>6. Its over</p>
   <p>7. Trust The Process</p>
-  <p>7. Ceedee Lamb Lover</p>
-  <p>7. Mob Squad</p>
-  <p>7. All Gas No Breaks</p>
+  <p>8. Ceedee Lamb Lover</p>
+  <p>9. Mob Squad</p>
+  <p>10. All Gas No Breaks</p>
 `;
 
 /*   STEP 3   */
