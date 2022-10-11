@@ -10,13 +10,13 @@ export const homepageText = `
   <p>WEEK 3 POWER RANKINGS</p>
   <p>1. FEED ME MOOOOOORE</p>
   <p>2. Cooper Kupp's Fan Club</p>
-  <p>3. TaylorMade</p>
-  <p>4. PFF God</p>
-  <p>5. No One</p>
-  <p>6. Its over</p>
-  <p>7. Trust The Process</p>
-  <p>8. Ceedee Lamb Lover</p>
-  <p>9. Mob Squad</p>
+  <p>3. Ceedee Lamb Lover</p>
+  <p>4. Mob Squad</p>
+  <p>5. Its over</p>
+  <p>6. No one</p>
+  <p>7. TaylorMade</p>
+  <p>8. PFF God</p>
+  <p>9. Trust the Process</p>
   <p>10. All Gas No Breaks</p>
 `;
 
