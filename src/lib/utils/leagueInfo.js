@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 3 POWER RANKINGS</p>
+  <p>WEEK 6 POWER RANKINGS</p>
   <p>1. FEED ME MOOOOOORE</p>
   <p>2. Cooper Kupp's Fan Club</p>
   <p>3. Ceedee Lamb Lover</p>
