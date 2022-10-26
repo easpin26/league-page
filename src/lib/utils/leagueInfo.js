@@ -7,16 +7,16 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 6 POWER RANKINGS</p>
-  <p>1. FEED ME MOOOOOORE</p>
-  <p>2. Cooper Kupp's Fan Club</p>
-  <p>3. Ceedee Lamb Lover</p>
-  <p>4. Mob Squad</p>
-  <p>5. Its over</p>
-  <p>6. No one</p>
-  <p>7. TaylorMade</p>
-  <p>8. PFF God</p>
-  <p>9. Trust the Process</p>
+  <p>WEEK 8 POWER RANKINGS</p>
+  <p>1. Moore is Less</p>
+  <p>2. So Good It Hurts</p>
+  <p>3. TaylorMade</p>
+  <p>4. Super Lamario Bros.</p>
+  <p>5. Ceedee Lamb Lover/p>
+  <p>6. Mob Squad</p>
+  <p>7. PFF God</p>
+  <p>8. Trust the Process</p>
+  <p>9. Shotgun Enthusast</p>
   <p>10. All Gas No Breaks</p>
 `;
 
