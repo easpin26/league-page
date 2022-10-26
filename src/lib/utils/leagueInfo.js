@@ -12,7 +12,7 @@ export const homepageText = `
   <p>2. So Good It Hurts</p>
   <p>3. TaylorMade</p>
   <p>4. Super Lamario Bros.</p>
-  <p>5. Ceedee Lamb Lover/p>
+  <p>5. Ceedee Lamb Lover</p>
   <p>6. Mob Squad</p>
   <p>7. PFF God</p>
   <p>8. Trust the Process</p>
