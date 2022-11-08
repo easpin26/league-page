@@ -7,15 +7,15 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 8 POWER RANKINGS</p>
+  <p>WEEK 10 POWER RANKINGS</p>
   <p>1. Moore is Less</p>
   <p>2. So Good It Hurts</p>
-  <p>3. TaylorMade</p>
-  <p>4. Super Lamario Bros.</p>
-  <p>5. Ceedee Lamb Lover</p>
-  <p>6. Mob Squad</p>
-  <p>7. PFF God</p>
-  <p>8. Trust the Process</p>
+  <p>3. Super Lamario Bros.</p>
+  <p>4. Trust the Process</p>
+  <p>5. PFF Gog/p>
+  <p>6. Kirko Chainz</p>
+  <p>7. Ceedee Lamb Lover</p>
+  <p>8. Mob Squad</p>
   <p>9. Shotgun Enthusast</p>
   <p>10. All Gas No Breaks</p>
 `;
