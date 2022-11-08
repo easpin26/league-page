@@ -13,7 +13,7 @@ export const homepageText = `
   <p>3. Super Lamario Bros.</p>
   <p>4. Trust the Process</p>
   <p>5. PFF God</p>
-  <p>6. Kirko Chainz</p>
+  <p>6. KirkoChainz</p>
   <p>7. Ceedee Lamb Lover</p>
   <p>8. Mob Squad</p>
   <p>9. Shotgun Enthusast</p>
