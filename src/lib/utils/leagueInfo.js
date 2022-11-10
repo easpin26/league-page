@@ -16,7 +16,7 @@ export const homepageText = `
   <p>6. KirkoChainz</p>
   <p>7. Ceedee Lamb Lover</p>
   <p>8. Mob Squad</p>
-  <p>9. Shotgun Enthusast</p>
+  <p>9. Shotgun Enthusiast</p>
   <p>10. All Gas No Breaks</p>
 `;
 
